@@ -1,0 +1,1 @@
+This is part socket in Mern stack.
